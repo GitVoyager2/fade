@@ -2,7 +2,7 @@ patch.1
 
 # test collaborator
 
-# test collaborator 2.1
+# test collaborator 2.6
 
 # test 1
 
