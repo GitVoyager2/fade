@@ -1,3 +1,4 @@
 [submodule "blink"]
 	path = blink
 	url = https://github.com/GitVoyager2/blink
+	branch = main
